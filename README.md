@@ -4,8 +4,8 @@ This repository hosts the legal documents for the **ScoreSprint** mobile applica
 
 ## Documents
 
-- [Privacy Policy](./privacy.md)
-- [Terms of Use](./terms.md)
+- [Privacy Policy](./privacy.html)
+- [Terms of Use](./terms.html)
 
 These documents are published here to comply with app store requirements and to provide transparency for users.
 
